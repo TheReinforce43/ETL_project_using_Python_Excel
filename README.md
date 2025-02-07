@@ -20,7 +20,7 @@ This project implements an ETL (Extract, Transform, Load) process using Python a
 - **Python**: The primary programming language used for this project.
 - **Pandas**: For data manipulation and analysis.
 - **Regular Expression**: find the expected pattern
-- **OCR **: OCR (Optical Character Recognition) in Python allows us to extract text from images
+- **OCR**: OCR (Optical Character Recognition) in Python allows us to extract text from images
 
 ## Installation
 To get started with this project, follow these steps:
