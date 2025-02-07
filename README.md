@@ -12,14 +12,15 @@ This project implements an ETL (Extract, Transform, Load) process using Python a
 - [License](#license)
 
 ## Features
-- **Data Extraction**: Pull data from multiple sources.
-- **Data Transformation**: Clean and manipulate data to fit your needs.
-- **Data Loading**: Save the transformed data into an Excel file.
+- **Data Extraction**: data collection from PDF file and then convert it into image  
+- **Data Transformation**: Clean and manipulate data  from image file and further convert this docs file
+- **Data Loading**: Save the transformed data into an Excel file. there have three section (Chapter,Section,Hadith)
 
 ## Technologies Used
 - **Python**: The primary programming language used for this project.
 - **Pandas**: For data manipulation and analysis.
-- **OpenPyXL**: To read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
+- **Regular Expression**: find the expected pattern
+- **OCR **: OCR (Optical Character Recognition) in Python allows us to extract text from images
 
 ## Installation
 To get started with this project, follow these steps:
